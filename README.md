@@ -1,1 +1,1 @@
-# Factorial
+# Factorial using For loop & REDUCE method.
